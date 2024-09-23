@@ -1,6 +1,7 @@
 # Retail Price Optimization
-<img src="./priceOptim.png">
+<img src="./priceOptim.jpg">
 
+image source : [CopperBerg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.copperberg.com%2Fprice-optimization-a-data-driven-approach-part-2%2F&psig=AOvVaw2sY-RSqEemZWMp_vapOYHX&ust=1727177444712000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND0y8L72IgDFQAAAAAdAAAAABAP)
 ## **Business Problem**
 
 FashionElite is a clothing retailer specializing in a diverse selection of apparel and accessories, operating both physical stores and an online e-commerce platform. To enhance its revenue and market competitiveness, the company aims to optimize its pricing strategy.
