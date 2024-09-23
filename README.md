@@ -69,7 +69,7 @@ We will use amount of revenue earned as a metric
 | Fp3                        | Competitor3 freight price                                                                     |
 | Lag_price                  | Previous month price of the product.                                                          |
 
-**Recommendations**
+## **Recommendations**
 
 - Pricing Strategy
 
